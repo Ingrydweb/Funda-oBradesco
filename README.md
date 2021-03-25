@@ -5,7 +5,7 @@ Desenvolvidos no curso de HTML e CSS
 <html>
  <head>
   <meta charset="utf-8">
-   <title>listas</title>
+
  </head>
 <body bgcolor=#b22222></body>
 <img src="./img/lucro-bradesco.jpg"alt="fundação bradesco" width="300"> 
