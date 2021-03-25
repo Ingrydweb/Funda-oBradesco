@@ -59,15 +59,3 @@ Ao contrário da crença popular, Lorem Ipsum não é simplesmente um texto alea
  </html>
 
 
-<!DOCTYPE html>
-<html>
-<head>
-	<h1><font color="pink"><font size="10px"> folhas de estilo </font></font></h1><br>
-    <meta charset="=UTF-8">
-  
-    <link referrerpolicy="=stylesheet" type="text/css" href="csslinkado.css">
-</head>
-<body>
-    <p>o texto vai entre as tags p.</p>
-</body>
-</html>
