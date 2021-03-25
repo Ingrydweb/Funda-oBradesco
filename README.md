@@ -21,19 +21,6 @@ Desenvolvidos no curso de HTML e CSS
 </table>
 <hr>
 
-<form action=”/deixaremos-em-branco” method=”post”>
-	<label> Text: </label>
-	<input type=”text”>
-	<label> Password: </label>
-	<input type=”password”>
-	<label> Textarea: </label>
-	<textarea> </textarea >
-	<input type="checkbox" name="opcao" value="selectA" checked>clique para selecionar o A<br>
-	<input type="checkbox" name="opcao" value="selectB">clique para selecionar o B<br>
-	<input type="radio" name="opcao" value="selectA"  checked>Masculino
-	<input type="radio" name="opcao" value="selectB">Feminino
-
-</form>
   
  <ul>
    <h1>listas desordenadas</h1>
