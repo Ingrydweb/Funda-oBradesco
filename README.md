@@ -33,24 +33,6 @@ Desenvolvidos no curso de HTML e CSS
 	<input type="radio" name="opcao" value="selectA"  checked>Masculino
 	<input type="radio" name="opcao" value="selectB">Feminino
 
-<hr>
-
-<label>campo visivel</label>
-<input type="text"><br>
-<label>campo invisivel</label>
-
-<hr>
-
-	<select>
-		<option value="verde">Verde</option>
-		<option value="vermelho">Vermelho</option>
-		<option value="azul">Azul</option>
-		<option value="alpha">Alpha</option>	
-	</select>
-
-
-	<button type="submit">Cadastrar</button>
- 
 </form>
   
  <ul>
