@@ -57,3 +57,17 @@ Ao contrário da crença popular, Lorem Ipsum não é simplesmente um texto alea
 <p>O pedaço padrão de Lorem Ipsum usado desde 1500 é reproduzido abaixo para os interessados. As seções 1.10.32 e 1.10.33 de "de Finibus Bonorum et Malorum" por Cícero também são reproduzidas em sua forma original exata, acompanhadas por versões em inglês da tradução de 1914 por H. Rackham.</p> <!--parágrafo-->
   </body>
  </html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<h1><font color="pink"><font size="10px"> folhas de estilo </font></font></h1><br>
+    <meta charset="=UTF-8">
+    <title>Document</title>
+    <link referrerpolicy="=stylesheet" type="text/css" href="csslinkado.css">
+</head>
+<body>
+    <p>o texto vai entre as tags p.</p>
+</body>
+</html>
